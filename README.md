@@ -10,4 +10,17 @@ Para mi primer acercamiento al web_scraping, utilicé a Gemini como guía para c
 ✨ Este proyecto me mostró el potencial del web scraping para un analista de datos cuando se necesita obtener datos que no están disponibles localmente o en formatos estructurados. También resaltó el papel de Python para automatizar la captura de datos y su impacto automático en un dashboard. 
 Sé que hay otras formas de lograr esto, como APIs o agentes de IA. Cómo lo implementan ustedes? Han usado web scraping? 
 
+## Tecnologías usadas
+- Python (Pandas, Matplotlib, Seaborn)
+- SQL Server
+- Power BI
+- Google Sheets
+
+## Objetivos
+- Realizar web scraping para demostrar el potencial que tiene su utilizacion como DA
+- Crear BD
+- Extraer insights
+- Presentar resultados mediante simple dashboard
+
+
 #DataAnalyst #Dashboard #Python #Script #PowerBI #WebScraping #BasesDeDatos #SQLServer #PowerQuery
